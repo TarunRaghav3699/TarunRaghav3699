@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun Raghav
 - 👀 I’m interested in creating new things
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Java, CPP
 - 💞️ I’m looking to collaborate on New and Futuristic Projects
 - 📫 How to reach me :- You can reach me through my instagram id Tarunraghav77
 
